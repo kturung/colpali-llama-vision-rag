@@ -6,4 +6,4 @@ Pillow
 numpy
 pdf2image
 setuptools
-sqlite3
+ollama
